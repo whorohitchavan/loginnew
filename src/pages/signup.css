@@ -1,0 +1,23 @@
+.border {
+    border-color: rgb(218, 218, 218); /* You can change 'blue' to any color you prefer */
+  }
+  /* Add this CSS to your signup.css file or any global CSS file */
+
+/* Add this CSS to your signup.css file or any global CSS file */
+.flowbite-text-input input[type="text"],
+.flowbite-text-input input[type="email"],
+.flowbite-text-input input[type="password"],
+.flowbite-text-input input[type="number"],
+.flowbite-text-input textarea {
+    background-color: rgb(250, 250, 250); /* Set the background color to grey */
+    /* You may need to adjust other styles like border radius, padding, etc., if needed */
+}
+/* Add this CSS to your signup.css file or any global CSS file */
+.button-signin .text-xl {
+  color: white; /* Set the text color to white */
+}
+/* Add this CSS to your signup.css file or any global CSS file */
+
+.button-signin:hover {
+  background-color: #0b7575; /* Darker green color on hover */
+}
